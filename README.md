@@ -12,3 +12,6 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
+
+## Live preview
+[3 columb preview card component](https://ashleybradley.co.uk/projects/frontend-mentor/3-column-preview-card-component/)
